@@ -1,0 +1,6 @@
+request,response  两个过程
+请求转发和请求重定向的过程
+
+href=  "servlet"
+浏览器解析,服务器解析
+订单编号唯一性
